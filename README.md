@@ -1,6 +1,15 @@
 ### <h1>Hey 👋, I'm <a href="https://dheerajgogoi.github.io" target="_blank">Dheeraj Gogoi!</a></h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="500"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+ ![](https://visitor-badge.glitch.me/badge?page_id=DheerajGogoi.DheerajGogoi)
 
 **Know Me More:**
 - 🔭 I’m currently working on React Native development
@@ -24,8 +33,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
 
-[![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheerajGogoi)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 My GitHub stats
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DheerajGogoi&show_icons=true&theme=gotham" alt="DheerajGogoi" />
