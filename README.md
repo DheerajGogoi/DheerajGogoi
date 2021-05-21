@@ -1,12 +1,9 @@
 ### <h1>Hey 👋, I'm <a href="https://dheerajgogoi.github.io" target="_blank">Dheeraj Gogoi!</a></h1>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ 
+<a href="https://www.linkedin.com/in/dheeraj-gogoi-68337b1b5/">
+  <img align="left" alt="Dheeraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
  ![](https://visitor-badge.glitch.me/badge?page_id=DheerajGogoi.DheerajGogoi)
