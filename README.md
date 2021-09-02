@@ -10,7 +10,7 @@
 
 **Know Me More:**
 - 🔭 I’m currently working on React Native development
-- 🌱 I’m currently learning React Native and Machine Learning
+- 🌱 I’m currently working as an intern
 - 👯 I’m looking to collaborate on Full Stack Web development and React Native developemnt projects
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about React, Data Structures and Algorithms
