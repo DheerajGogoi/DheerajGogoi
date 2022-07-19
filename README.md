@@ -15,7 +15,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dheeraj-gogoi-68337b1b5/) or [Email](mailto:dheerajgogoi2@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I prefer tabs over spaces
-- 📝 My [Resume](https://drive.google.com/file/d/1zjvRUsWEpjnby7cKDt5k0uUEcPZrsay4/view)
+- 📝 My [Resume](https://drive.google.com/file/d/1usjEuHBV5LGfnbeU2Kdlj3iueIFuFB6G/view?usp=sharing)
 
 <br />
 
