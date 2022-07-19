@@ -1,7 +1,7 @@
 ### <h1>Hey 👋, I'm <a href="https://dheerajgogoi.netlify.app" target="_blank">Dheeraj Gogoi!</a></h1>
 Hi, I'm Dheeraj Gogoi, an enthusiastic self-taught full stack web developer. My passion for development is coming up with ideas and turning them into beautiful interfaces. When I build something, I pay close attention to the user experience, architecture, and code quality.
 
-I have so far worked as an intern at two firms with main base and Delhi, India abd California, US. Additionally, I work as a freelancer for US clients on a variety of different projects.
+I have so far worked as an intern at two firms with main base and Delhi, India abd California, US. Additionally, I am also working as a freelancer for US clients on a variety of different projects.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
@@ -12,11 +12,11 @@ I have so far worked as an intern at two firms with main base and Delhi, India a
  ![](https://visitor-badge.glitch.me/badge?page_id=DheerajGogoi.DheerajGogoi)
 
 **Know Me More:**
-- 🌱 I’m currently working as a Freelancer
-- 👯 I’m looking to collaborate on Full Stack Web development and React Native developemnt projects
-- 💬 Ask me about Full Stack Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dheeraj-gogoi-68337b1b5/) or [Email](mailto:dheerajgogoi2@gmail.com)
-- 📝 My [Resume](https://drive.google.com/file/d/1usjEuHBV5LGfnbeU2Kdlj3iueIFuFB6G/view?usp=sharing)
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [https://dheerajgogoi.netlify.app/](http://dheerajgogoi.netlify.app/)
+* ✉️  You can contact me at [dheerajgogoi2@gmail.com](mailto:dheerajgogoi2@gmail.com)
+* 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
+* 📝 Checkout My [Resume](https://drive.google.com/file/d/1usjEuHBV5LGfnbeU2Kdlj3iueIFuFB6G/view?usp=sharing)
 
 <br />
 
@@ -45,6 +45,12 @@ I have so far worked as an intern at two firms with main base and Delhi, India a
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="Graphql" /></a>
+
+<br>
+
+**Socials**
+
+<p align="left"> <a href="https://www.github.com/DheerajGogoi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dheeraj_gogoi_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dheeraj-gogoi-68337b1b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ---
 
